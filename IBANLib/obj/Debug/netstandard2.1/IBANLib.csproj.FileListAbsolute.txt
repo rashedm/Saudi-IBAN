@@ -1,0 +1,10 @@
+C:\Users\raldawsari\projects\Saudi-IBAN\IBANLib\bin\Debug\netstandard2.1\IBANLib.deps.json
+C:\Users\raldawsari\projects\Saudi-IBAN\IBANLib\bin\Debug\netstandard2.1\IBANLib.dll
+C:\Users\raldawsari\projects\Saudi-IBAN\IBANLib\bin\Debug\netstandard2.1\IBANLib.pdb
+C:\Users\raldawsari\projects\Saudi-IBAN\IBANLib\obj\Debug\netstandard2.1\IBANLib.csproj.AssemblyReference.cache
+C:\Users\raldawsari\projects\Saudi-IBAN\IBANLib\obj\Debug\netstandard2.1\IBANLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raldawsari\projects\Saudi-IBAN\IBANLib\obj\Debug\netstandard2.1\IBANLib.AssemblyInfoInputs.cache
+C:\Users\raldawsari\projects\Saudi-IBAN\IBANLib\obj\Debug\netstandard2.1\IBANLib.AssemblyInfo.cs
+C:\Users\raldawsari\projects\Saudi-IBAN\IBANLib\obj\Debug\netstandard2.1\IBANLib.csproj.CoreCompileInputs.cache
+C:\Users\raldawsari\projects\Saudi-IBAN\IBANLib\obj\Debug\netstandard2.1\IBANLib.dll
+C:\Users\raldawsari\projects\Saudi-IBAN\IBANLib\obj\Debug\netstandard2.1\IBANLib.pdb
