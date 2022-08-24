@@ -24,7 +24,7 @@ namespace IBANLib
         {
             if(ValidateIBAN(iban))
             {
-                string bankCode = iban.Substring(4, 6);
+                string bankCode = iban.Substring(4, 2);
                 return BankList.BANKS.FirstOrDefault(b => b.SamaCode == bankCode);
             } else
             {
