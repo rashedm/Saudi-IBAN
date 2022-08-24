@@ -5,7 +5,7 @@ namespace IBANLib
 {
     public class Util
     {
-        public static bool validateIBAN(string iban)
+        public static bool ValidateIBAN(string iban)
         {
             if (string.IsNullOrEmpty(iban))
             {
@@ -20,9 +20,9 @@ namespace IBANLib
             return true;
         }
 
-        public static Bank getBankByIBAN(string iban)
+        public static Bank GetBankByIBAN(string iban)
         {
-            if(validateIBAN(iban))
+            if(ValidateIBAN(iban))
             {
                 string bankCode = iban.Substring(4, 6);
                 return BankList.BANKS.FirstOrDefault(b => b.SamaCode == bankCode);
