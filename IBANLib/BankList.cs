@@ -12,7 +12,7 @@ namespace IBANLib
             new Bank(){SamaCode="10", ArabicName="البنك الأهلي التجاري", EnglishName="National Commercial Bank", Code="1"},
             new Bank(){SamaCode="45", ArabicName="البنك السعودي البريطاني", EnglishName="Saudi British Bank", Code="2"},
             new Bank(){SamaCode="20", ArabicName="بنك الرياض", EnglishName="Riyadh Bank", Code="9"},
-            new Bank(){SamaCode="40", ArabicName="سامبا", EnglishName="Saudi American Bank", Code="4"},
+            new Bank(){SamaCode="40", ArabicName="سامبا", EnglishName="Saudi American Bank", Code="10"},
             new Bank(){SamaCode="05", ArabicName="بنك الانماء", EnglishName="Alinma Bank", Code="12"},
             new Bank(){SamaCode="50", ArabicName="البنك الأول", EnglishName="Alawwal bank", Code="10"},
             new Bank(){SamaCode="60", ArabicName="بنك الجزيرة", EnglishName="Bank AlJazira", Code="8"},
